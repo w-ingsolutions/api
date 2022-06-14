@@ -253,3 +253,4 @@ schema.graphql
 front-workspace.code-workspace
 .yarn
 .yarnrc
+.github
